@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87ccb7fed4c6dfa41a19eed42c040fd0, type: 3}
+  m_Name: BigEnemieConfig
+  m_EditorClassIdentifier: 
+  _DataAboutObjectsSpawnedOnDeath:
+  - _ObjectTemplate: {fileID: 4570157599844447218, guid: 9dce9ae1b207ecc499305f5d5115fc21, type: 3}
+    _StartOffset: {x: 0, y: 66.666664, z: 0}
+    _MotionDisplacement: {x: 1.6666665, y: -66.666664, z: 0}
+    _DisplacementTime: 1
+  - _ObjectTemplate: {fileID: 4570157599844447218, guid: 9dce9ae1b207ecc499305f5d5115fc21, type: 3}
+    _StartOffset: {x: 0, y: 66.666664, z: 0}
+    _MotionDisplacement: {x: -1.6666665, y: -66.66666, z: 0}
+    _DisplacementTime: 1
