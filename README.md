@@ -1,3 +1,2 @@
 # GDTestWork-ValeryTkachenko
- Valery Tkachenko, completed test assignment
- Валерій Ткаченко, виконане тестове завдання
+ Valery Tkachenko, completed test assignment. Валерій Ткаченко, виконане тестове завдання
